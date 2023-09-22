@@ -5,4 +5,6 @@ public interface IBaseRate {
         return 2.5;
     }
 
+
+
 }
