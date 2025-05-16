@@ -2,18 +2,6 @@
 
 This repository showcases a Java-based bank application that leverages Object-Oriented Programming (OOP) principles. The application reads customer data from a CSV file and creates a list of account objects, demonstrating concepts like encapsulation, inheritance, and polymorphism.
 
-
-Java-oops-bankApplication-project/
-├── src/
-│   ├── BankAccount.java
-│   ├── CheckingAccount.java
-│   ├── SavingsAccount.java
-│   ├── Account.java
-│   └── BankApp.java
-├── NewBankAccounts.csv
-├── .gitignore
-└── README.md
-
 🧰 Features
 - CSV Data Import: Reads customer information from a CSV file to initialize accounts.
 - Account Types: Supports both Savings and Checking accounts with distinct features.
@@ -32,7 +20,6 @@ The NewBankAccounts.csv file should be formatted as follows:
 
 Name,SSN,AccountType,InitialDeposit
 John Doe,123456789,Savings,1000
-Jane Smith,987654321,Checking,1500
 
 - Name: Full name of the account holder.
 - SSN: Social Security Number (used for account number generation).
