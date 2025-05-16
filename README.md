@@ -19,6 +19,7 @@ Prerequisites
 The NewBankAccounts.csv file should be formatted as follows:
 
 Name,SSN,AccountType,InitialDeposit
+
 John Doe,123456789,Savings,1000
 
 - Name: Full name of the account holder.
