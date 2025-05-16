@@ -13,7 +13,7 @@ This repository showcases a Java-based bank application that leverages Object-Or
 🚀 Getting Started
 Prerequisites
 - Java Development Kit (JDK) 8 or higher.
-- An IDE like IntelliJ IDEA or Eclipse (optional).
+- An IDE like IntelliJ IDEA or Eclipse.
 
   📄 CSV File Format
 The NewBankAccounts.csv file should be formatted as follows:
